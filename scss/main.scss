@@ -1,0 +1,25 @@
+@import "./imports/_normalize.scss";
+
+*{ box-sizing: border-box }
+img {
+   width: 100%;
+   display: block;
+}
+
+#app-container{
+   .banner{
+      height: 2.2em;
+      background: linear-gradient(to right, #F58880, #FED9A0, #FFE8BD, #98CBA9, #8CAFDD, #819CC8, #A891B7);
+      color: #fff;
+      span{
+         font-size: 1em;
+         padding-top: 5px;
+         padding-right: 20px;
+         float: right;
+      }
+   }
+   h1{
+      color: #ff9f9f;
+   }
+
+}
