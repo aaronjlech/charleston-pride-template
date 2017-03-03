@@ -371,6 +371,14 @@ img {
   width: 100%;
   display: block; }
 
+#app-container .header_info p {
+  padding: 100px 50px;
+  font-size: 1.2em;
+  font-family: 'Josefin Slab', sans-serif; }
+#app-container .center_logo h1 {
+  color: #666;
+  margin: 0;
+  font-size: 5em; }
 #app-container .banner {
   height: 2.2em;
   background: linear-gradient(to right, #F58880, #FED9A0, #FFE8BD, #98CBA9, #8CAFDD, #819CC8, #A891B7);
@@ -380,7 +388,5 @@ img {
     padding-top: 5px;
     padding-right: 20px;
     float: right; }
-#app-container h1 {
-  color: #ff9f9f; }
 
 /*# sourceMappingURL=styles.css.map */
