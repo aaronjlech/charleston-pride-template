@@ -371,6 +371,25 @@ img {
   width: 100%;
   display: block; }
 
+#app-container .selected {
+  font-weight: 700; }
+#app-container .main_body .nav {
+  padding: 1em 2em;
+  border-top: 1px solid black;
+  border-bottom: 1px dotted black; }
+  #app-container .main_body .nav .nav_item {
+    font-family: 'Source Sans Pro', serif; }
+#app-container .main_body .misc {
+  margin: 0 25%;
+  font-size: .9em;
+  color: #ddd;
+  font-style: italic;
+  font-weight: 500; }
+  #app-container .main_body .misc .misc_item {
+    padding: 0;
+    width: 23%; }
+#app-container .header {
+  margin: 0; }
 #app-container .header_info p {
   padding: 100px 50px;
   font-size: 1.2em;
